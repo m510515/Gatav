@@ -1,1 +1,1 @@
-print("Hello")
+print("I want a sweet treat!")
